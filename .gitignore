@@ -105,3 +105,4 @@ venv.bak/
 
 Pipfile
 Pipfile.lock
+functional_tests/
